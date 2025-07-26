@@ -1,0 +1,12 @@
+# Arquivos do sistema
+.DS_Store
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+
+# Diretório de build do Java
+out/
+
+# Arquivos compilados
+*.class
